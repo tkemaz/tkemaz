@@ -34,5 +34,5 @@ Name `tkemaz`!
 
 *Want to collaborate or chat about a project? You can reach me at:*
 
-**Email:** ``tkemaz.git@proton.me``
-**Discord Username:** ``n11kol1c``
+**Email:** ```tkemaz.git@proton.me```
+**Discord Username:** ```n11kol1c```
