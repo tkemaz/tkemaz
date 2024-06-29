@@ -1,7 +1,7 @@
 # About Me
 --------------------------------
 
-Name `tkemaz`!
+Name `tkemza`!
 
 ~ *I'm a part of GreyHat hactivist organization and declaration better known as `ZeroByte`*
 
