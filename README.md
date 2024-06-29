@@ -11,7 +11,6 @@ Name `tkemaz`!
 # A Little About My Background
 --------------------------------
 
-* I'm into coding for 2 years and I'm looking 
 * I'm proficient in [`C and Python`] and enjoy learning new ones.
 
 --------------------------------
