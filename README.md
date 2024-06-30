@@ -19,11 +19,11 @@ Name `tkemza`!
 
 *Some of my notable projects that are in progress:*
 
-~ `Socketpy`: [IP Multiplatform Linux communication] ~ Languages: `Pyhton` and `Shell` {**TUI**}
+~ `Socketpy`: [IP Multiplatform Linux communication] ~ Languages: `Pyhton` and `Bash` {**TUI**}
 
-~ `ByteHunter`: [Linux Terminal User Interface that give access a lot pre-made testing tools] ~ Languages: `C` and `Shell` {**TUI**}
+~ `ByteHunter`: [Linux Terminal User Interface that give access a lot pre-made testing tools] ~ Languages: `C` and `Bash` {**TUI**}
 
-~ `ZeroBit`: [Discord bot with a list with bunch of commands that allows testers and practical hackers to enter deeply into mazes of discord] ~ Languages: `Pyhton`, `C` and `Shell` {**GUI**}
+~ `ZeroBit`: [Discord bot with a list with bunch of commands that allows testers and practical hackers to enter deeply into mazes of discord] ~ Languages: `Pyhton`, `C` and `Bash` {**GUI**}
 
 `Feel free to explore my repositories and contribute to any projects that interest you!`
 
